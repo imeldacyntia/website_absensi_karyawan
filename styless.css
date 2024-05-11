@@ -1,0 +1,42 @@
+/* styles.css */
+
+/* Your custom CSS styles */
+
+/* Gaya dari styless.css */
+.btn {
+    width: 150px;
+    background-color: yellow;
+    border-color: pink;
+  }
+  
+  .btn-warning {
+    color: red;
+  }
+  
+  .btn-primary {
+    color: blue;
+  }
+  
+  .btn-login {
+    width: 150px;
+    background-color: yellow;
+    border-color: pink;
+    color: red;
+  }
+  
+  .btn-login:hover {
+    box-shadow: 2px 2px 5px pink;
+  }
+  .btn-special {
+    width: 150px;
+    background-color: yellow;
+    border-color: pink;
+    color: red;
+  }
+  
+  .btn-special:hover {
+    box-shadow: 2px 2px 5px pink;
+  }
+
+
+  
